@@ -1,0 +1,6 @@
+.expo*
+.vscode*
+node_modules*
+babel.config.js
+package*
+yarn.lock
